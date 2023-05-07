@@ -1,0 +1,7 @@
+E:\Kateb University\VisualStadio\Code\Week-06\MultiDoimentions Arrays\bin\Debug\MultiDoimentions Arrays.exe.config
+E:\Kateb University\VisualStadio\Code\Week-06\MultiDoimentions Arrays\bin\Debug\MultiDoimentions Arrays.exe
+E:\Kateb University\VisualStadio\Code\Week-06\MultiDoimentions Arrays\bin\Debug\MultiDoimentions Arrays.pdb
+E:\Kateb University\VisualStadio\Code\Week-06\MultiDoimentions Arrays\obj\Debug\MultiDoimentions Arrays.csproj.AssemblyReference.cache
+E:\Kateb University\VisualStadio\Code\Week-06\MultiDoimentions Arrays\obj\Debug\MultiDoimentions Arrays.csproj.CoreCompileInputs.cache
+E:\Kateb University\VisualStadio\Code\Week-06\MultiDoimentions Arrays\obj\Debug\MultiDoimentions Arrays.exe
+E:\Kateb University\VisualStadio\Code\Week-06\MultiDoimentions Arrays\obj\Debug\MultiDoimentions Arrays.pdb
