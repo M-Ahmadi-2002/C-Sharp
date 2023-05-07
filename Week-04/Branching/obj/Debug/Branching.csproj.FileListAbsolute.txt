@@ -1,0 +1,7 @@
+E:\Kateb University\VisualStadio\Code\Week-04\Branching\bin\Debug\Branching.exe.config
+E:\Kateb University\VisualStadio\Code\Week-04\Branching\bin\Debug\Branching.exe
+E:\Kateb University\VisualStadio\Code\Week-04\Branching\bin\Debug\Branching.pdb
+E:\Kateb University\VisualStadio\Code\Week-04\Branching\obj\Debug\Branching.csproj.AssemblyReference.cache
+E:\Kateb University\VisualStadio\Code\Week-04\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+E:\Kateb University\VisualStadio\Code\Week-04\Branching\obj\Debug\Branching.exe
+E:\Kateb University\VisualStadio\Code\Week-04\Branching\obj\Debug\Branching.pdb

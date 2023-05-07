@@ -1,0 +1,6 @@
+E:\Kateb University\VisualStadio\Code\Week-04\BankBenifite\bin\Debug\BankBenifite.exe.config
+E:\Kateb University\VisualStadio\Code\Week-04\BankBenifite\bin\Debug\BankBenifite.exe
+E:\Kateb University\VisualStadio\Code\Week-04\BankBenifite\bin\Debug\BankBenifite.pdb
+E:\Kateb University\VisualStadio\Code\Week-04\BankBenifite\obj\Debug\BankBenifite.csproj.CoreCompileInputs.cache
+E:\Kateb University\VisualStadio\Code\Week-04\BankBenifite\obj\Debug\BankBenifite.exe
+E:\Kateb University\VisualStadio\Code\Week-04\BankBenifite\obj\Debug\BankBenifite.pdb

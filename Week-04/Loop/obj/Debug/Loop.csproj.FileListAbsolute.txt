@@ -1,0 +1,6 @@
+E:\Kateb University\VisualStadio\Code\Week-04\Loop\bin\Debug\Loop.exe.config
+E:\Kateb University\VisualStadio\Code\Week-04\Loop\bin\Debug\Loop.exe
+E:\Kateb University\VisualStadio\Code\Week-04\Loop\bin\Debug\Loop.pdb
+E:\Kateb University\VisualStadio\Code\Week-04\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+E:\Kateb University\VisualStadio\Code\Week-04\Loop\obj\Debug\Loop.exe
+E:\Kateb University\VisualStadio\Code\Week-04\Loop\obj\Debug\Loop.pdb
