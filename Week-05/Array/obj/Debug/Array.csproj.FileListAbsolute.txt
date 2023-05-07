@@ -1,0 +1,7 @@
+E:\Kateb University\VisualStadio\Code\Week-05\Array\bin\Debug\Array.exe.config
+E:\Kateb University\VisualStadio\Code\Week-05\Array\bin\Debug\Array.exe
+E:\Kateb University\VisualStadio\Code\Week-05\Array\bin\Debug\Array.pdb
+E:\Kateb University\VisualStadio\Code\Week-05\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+E:\Kateb University\VisualStadio\Code\Week-05\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+E:\Kateb University\VisualStadio\Code\Week-05\Array\obj\Debug\Array.exe
+E:\Kateb University\VisualStadio\Code\Week-05\Array\obj\Debug\Array.pdb
