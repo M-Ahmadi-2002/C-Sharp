@@ -1,0 +1,7 @@
+E:\Kateb University\VisualStadio\Code\Week-02\Variabels\bin\Debug\Variabels.exe.config
+E:\Kateb University\VisualStadio\Code\Week-02\Variabels\bin\Debug\Variabels.exe
+E:\Kateb University\VisualStadio\Code\Week-02\Variabels\bin\Debug\Variabels.pdb
+E:\Kateb University\VisualStadio\Code\Week-02\Variabels\obj\Debug\Variabels.csproj.AssemblyReference.cache
+E:\Kateb University\VisualStadio\Code\Week-02\Variabels\obj\Debug\Variabels.csproj.CoreCompileInputs.cache
+E:\Kateb University\VisualStadio\Code\Week-02\Variabels\obj\Debug\Variabels.exe
+E:\Kateb University\VisualStadio\Code\Week-02\Variabels\obj\Debug\Variabels.pdb

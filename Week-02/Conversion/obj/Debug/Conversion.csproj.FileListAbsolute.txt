@@ -1,0 +1,7 @@
+E:\Kateb University\VisualStadio\Code\Week-02\Conversion\bin\Debug\Conversion.exe.config
+E:\Kateb University\VisualStadio\Code\Week-02\Conversion\bin\Debug\Conversion.exe
+E:\Kateb University\VisualStadio\Code\Week-02\Conversion\bin\Debug\Conversion.pdb
+E:\Kateb University\VisualStadio\Code\Week-02\Conversion\obj\Debug\Conversion.csproj.AssemblyReference.cache
+E:\Kateb University\VisualStadio\Code\Week-02\Conversion\obj\Debug\Conversion.csproj.CoreCompileInputs.cache
+E:\Kateb University\VisualStadio\Code\Week-02\Conversion\obj\Debug\Conversion.exe
+E:\Kateb University\VisualStadio\Code\Week-02\Conversion\obj\Debug\Conversion.pdb

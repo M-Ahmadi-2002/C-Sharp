@@ -1,0 +1,6 @@
+E:\Kateb University\VisualStadio\Code\Week-02\Constant and Litrals\bin\Debug\Constant and Litrals.exe.config
+E:\Kateb University\VisualStadio\Code\Week-02\Constant and Litrals\bin\Debug\Constant and Litrals.exe
+E:\Kateb University\VisualStadio\Code\Week-02\Constant and Litrals\bin\Debug\Constant and Litrals.pdb
+E:\Kateb University\VisualStadio\Code\Week-02\Constant and Litrals\obj\Debug\Constant and Litrals.csproj.CoreCompileInputs.cache
+E:\Kateb University\VisualStadio\Code\Week-02\Constant and Litrals\obj\Debug\Constant and Litrals.exe
+E:\Kateb University\VisualStadio\Code\Week-02\Constant and Litrals\obj\Debug\Constant and Litrals.pdb
