@@ -1,0 +1,10 @@
+E:\Kateb University\VisualStadio\Code\Week-01\IntroductionDesktop-01\bin\Debug\IntroductionDesktop-01.exe.config
+E:\Kateb University\VisualStadio\Code\Week-01\IntroductionDesktop-01\bin\Debug\IntroductionDesktop-01.exe
+E:\Kateb University\VisualStadio\Code\Week-01\IntroductionDesktop-01\bin\Debug\IntroductionDesktop-01.pdb
+E:\Kateb University\VisualStadio\Code\Week-01\IntroductionDesktop-01\obj\Debug\IntroductionDesktop-01.csproj.AssemblyReference.cache
+E:\Kateb University\VisualStadio\Code\Week-01\IntroductionDesktop-01\obj\Debug\IntroductionDesktop_01.Form1.resources
+E:\Kateb University\VisualStadio\Code\Week-01\IntroductionDesktop-01\obj\Debug\IntroductionDesktop_01.Properties.Resources.resources
+E:\Kateb University\VisualStadio\Code\Week-01\IntroductionDesktop-01\obj\Debug\IntroductionDesktop-01.csproj.GenerateResource.cache
+E:\Kateb University\VisualStadio\Code\Week-01\IntroductionDesktop-01\obj\Debug\IntroductionDesktop-01.csproj.CoreCompileInputs.cache
+E:\Kateb University\VisualStadio\Code\Week-01\IntroductionDesktop-01\obj\Debug\IntroductionDesktop-01.exe
+E:\Kateb University\VisualStadio\Code\Week-01\IntroductionDesktop-01\obj\Debug\IntroductionDesktop-01.pdb

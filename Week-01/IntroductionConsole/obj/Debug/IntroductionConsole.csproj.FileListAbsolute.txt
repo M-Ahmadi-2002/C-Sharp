@@ -1,0 +1,7 @@
+E:\Kateb University\VisualStadio\Code\Week-01\IntroductionConsole\bin\Debug\IntroductionConsole.exe.config
+E:\Kateb University\VisualStadio\Code\Week-01\IntroductionConsole\bin\Debug\IntroductionConsole.exe
+E:\Kateb University\VisualStadio\Code\Week-01\IntroductionConsole\bin\Debug\IntroductionConsole.pdb
+E:\Kateb University\VisualStadio\Code\Week-01\IntroductionConsole\obj\Debug\IntroductionConsole.csproj.AssemblyReference.cache
+E:\Kateb University\VisualStadio\Code\Week-01\IntroductionConsole\obj\Debug\IntroductionConsole.csproj.CoreCompileInputs.cache
+E:\Kateb University\VisualStadio\Code\Week-01\IntroductionConsole\obj\Debug\IntroductionConsole.exe
+E:\Kateb University\VisualStadio\Code\Week-01\IntroductionConsole\obj\Debug\IntroductionConsole.pdb
