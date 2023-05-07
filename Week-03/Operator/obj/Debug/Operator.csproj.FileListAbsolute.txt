@@ -1,0 +1,7 @@
+E:\Kateb University\VisualStadio\Code\Week-03\Operator\bin\Debug\Operator.exe.config
+E:\Kateb University\VisualStadio\Code\Week-03\Operator\bin\Debug\Operator.exe
+E:\Kateb University\VisualStadio\Code\Week-03\Operator\bin\Debug\Operator.pdb
+E:\Kateb University\VisualStadio\Code\Week-03\Operator\obj\Debug\Operator.csproj.AssemblyReference.cache
+E:\Kateb University\VisualStadio\Code\Week-03\Operator\obj\Debug\Operator.csproj.CoreCompileInputs.cache
+E:\Kateb University\VisualStadio\Code\Week-03\Operator\obj\Debug\Operator.exe
+E:\Kateb University\VisualStadio\Code\Week-03\Operator\obj\Debug\Operator.pdb

@@ -1,0 +1,7 @@
+E:\Kateb University\VisualStadio\Code\Week-03\NameSpace\bin\Debug\NameSpace.exe.config
+E:\Kateb University\VisualStadio\Code\Week-03\NameSpace\bin\Debug\NameSpace.exe
+E:\Kateb University\VisualStadio\Code\Week-03\NameSpace\bin\Debug\NameSpace.pdb
+E:\Kateb University\VisualStadio\Code\Week-03\NameSpace\obj\Debug\NameSpace.csproj.CoreCompileInputs.cache
+E:\Kateb University\VisualStadio\Code\Week-03\NameSpace\obj\Debug\NameSpace.exe
+E:\Kateb University\VisualStadio\Code\Week-03\NameSpace\obj\Debug\NameSpace.pdb
+E:\Kateb University\VisualStadio\Code\Week-03\NameSpace\obj\Debug\NameSpace.csproj.AssemblyReference.cache
